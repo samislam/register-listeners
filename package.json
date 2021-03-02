@@ -1,0 +1,33 @@
+{
+  "name": "register-listeners",
+  "version": "1.0.0",
+  "description": "register multiple event listeners at once for nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samislam/register-listeners.git"
+  },
+  "keywords": [
+    "nodejs",
+    "events",
+    "observer",
+    "eventhandlers",
+    "event-handlers",
+    "multiple-event-listeners"
+  ],
+  "author": "samislam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samislam/register-listeners/issues"
+  },
+  "homepage": "https://github.com/samislam/register-listeners#readme",
+  "prettier":{
+    "tabWidth": 4,
+    "semi": false,
+    "printWidth": 80,
+    "singleQuote": true
+  }
+}
