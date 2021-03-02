@@ -1,0 +1,29 @@
+{
+  "name": "register-listeners",
+  "version": "2.0.0",
+  "description": "register multiple event listeners at once for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "registerListeners",
+    "listeners",
+    "handlers",
+    "events",
+    "eventsHandlers",
+    "registerevents"
+  ],
+  "author": "samislam",
+  "license": "ISC",
+  "dependencies": {
+    "@samislam/checktypes": "^1.0.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "tabWidth": 4,
+    "printWidth": 100
+  }
+}
